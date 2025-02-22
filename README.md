@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Hanad</h1>
-<h3 align="center">Aspiring DevOps Engineer from London 📍🇬🇧</h3>
+<h3 align="center">DevOps Engineer from London 📍🇬🇧</h3>
 
 - 🔭 I’m currently working on improving my DevOps skills with projects focused on CI/CD, cloud infrastructure, automation, and AWS
 
