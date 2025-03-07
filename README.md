@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏾, I'm Hanad</h1>
 <h3 align="center">DevOps Engineer from London 📍🇬🇧</h3>
 
-- 🔭 I’m currently working on improving my DevOps skills with projects focused on CI/CD, cloud infrastructure, automation, and AWS
+- 🔭 I’m currently working on improving my DevOps skills with projects focused on CI/CD, cloud infrastructure, automation, and Azure
 
-- 🌱 I’m currently learning Docker, Terraform, and AWS.
+- 🌱 I’m currently learning Docker, Terraform, and Azure.
 
 - 📫 How to reach me **hanadisa05@gmail.com**
 
