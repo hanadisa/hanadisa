@@ -4,8 +4,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hanad1sa&label=Profile%20views&color=blue&style=flat-square)  
 
 - 🔭 I’m currently working on **improving my DevOps skills with projects focused on CI/CD, cloud infrastructure, automation, and Azure**    
-- 📝 I post regularly about **DevOps, Cloud, and Automation on [LinkedIn](https://www.linkedin.com/in/hanad1sa/)**   
-- 💻 All of my projects are available at **[GitHub Repositories](https://github.com/hanad1sa?tab=repositories)**
+- 📝 I post regularly about **DevOps, Cloud, and Automation on [LinkedIn](www.linkedin.com/in/hanad-isa-35747a245)**   
+- 💻 All of my projects are available at **[GitHub Repositories]([https://github.com/hanad1sa?tab=repositories](https://github.com/hanadisa?tab=repositories))**
 
 ## **🤝🏽 Connect with me:**  
 <p align="left">
